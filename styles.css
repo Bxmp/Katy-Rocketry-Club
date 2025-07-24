@@ -40,6 +40,7 @@ section {
 }
 .hero .content {
   background: rgb(255, 184, 25);
+  background: image()
   width: 100%;
   height: 100%;
 }
